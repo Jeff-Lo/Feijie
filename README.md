@@ -1,2 +1,2 @@
 # Feijie
-Feijie project with Django in college
+Team final project for Feijie with Django in college.
